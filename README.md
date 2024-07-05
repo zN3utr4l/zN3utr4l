@@ -3,11 +3,11 @@ I'm a passionate software developer with extensive experience in various framewo
 
 ## 🔧 Technical Skills:
 
-**.NET:** Developing robust and scalable applications using the .NET framework.
-**Django:** Building secure and high-performance web applications with Django.
-**Python:** Scripting, automation, and back-end development with Python.
-**Vue.js:** Creating dynamic and responsive user interfaces with Vue.js.
-**Quasar:** Building cross-platform applications using the Quasar framework.
+- **.NET:** Developing robust and scalable applications using the .NET framework.
+- **Django:** Building secure and high-performance web applications with Django.
+- **Python:** Scripting, automation, and back-end development with Python.
+- **Vue.js:** Creating dynamic and responsive user interfaces with Vue.js.
+- **Quasar:** Building cross-platform applications using the Quasar framework.
 
 ## 💼 Professional Experience:
 
