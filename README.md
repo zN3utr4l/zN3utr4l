@@ -10,11 +10,11 @@ I'm a passionate software developer with extensive experience in various framewo
 ---
 
 ### 🔧 Technical Skills:
-- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> Developing robust and scalable applications using the .NET framework.
-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> Django: Building secure and high-performance web applications with Django.
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> Python: Scripting, automation, and back-end development with Python.
-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /> Vue.js: Creating dynamic and responsive user interfaces with Vue.js.
-- <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" /> Quasar: Building cross-platform applications using the Quasar framework.
+- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> Developing robust and scalable applications.
+- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> Building secure and high-performance web applications.
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> Scripting, automation, and back-end development.
+- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /> Creating dynamic and responsive user interfaces.
+- <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" /> Building cross-platform applications.
   
 #### 📚 Other Skills & Technologies:
 - <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
@@ -49,7 +49,7 @@ Always looking for new challenges and growth opportunities. Feel free to reach o
 
 ###
 
-<h2 align="left">📫 Connect with me 💻</h2>
+<h2 align="left">📫 Connect with me</h2>
 
 ###
 
