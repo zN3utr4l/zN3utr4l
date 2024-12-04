@@ -6,6 +6,7 @@
 I'm a passionate software developer with extensive experience in various frameworks and programming languages.
 
 - 💻 Dedicated to designing innovative solutions, exploring cutting-edge technologies, and enhancing my software development skills.
+- 🚀 Always eager to take on challenging projects and contribute to the development community.
 
 ---
 
@@ -25,19 +26,16 @@ I'm a passionate software developer with extensive experience in various framewo
 - <img src="https://img.shields.io/badge/OPC_UA-0D59A5?style=for-the-badge&logo=opcua&logoColor=white" alt="OPC UA" /> <img src="https://img.shields.io/badge/Ethernet/IP-007ACC?style=for-the-badge&logo=ethernet&logoColor=white" alt="Ethernet/IP" /> <img src="https://img.shields.io/badge/Modbus-004880?style=for-the-badge&logo=modbus&logoColor=white" alt="Modbus" />
 
 ### 💼 Professional Experience:
-
-- **Automation:** Working in the Automation industry, developing efficient and innovative solutions.
-- **HMI Development:** Specializing in the development of Human-Machine Interfaces (HMI) to enhance user interaction and system control.
-- **REST API Development:** Expertise in designing, implementing, and managing RESTful APIs to enable seamless communication between systems, ensuring scalability and performance.
-- **Web Developer:** Skilled in building responsive and dynamic web applications using modern frameworks and tools, focusing on user experience, performance, and maintainability.
+- 🤖 **Industrial Automation Solutions:** Working in the Automation industry, developing efficient and innovative solutions.
+- 🖥️ **Human-Machine Interface (HMI):** Development Specializing in the development of Human-Machine Interfaces (HMI) to enhance user interaction and system control.
+- 🔗 **RESTful API Architecture:** Expertise in designing, implementing, and managing RESTful APIs to enable seamless communication between systems, ensuring scalability and performance.
+- 🌍 **Cross-Platform Application Development:** Skilled in building responsive and dynamic web applications using modern frameworks and tools, focusing on user experience, performance, and maintainability.
 
 ### 💡 What I'm Passionate About:
 
 Continuously improving my technical skills and learning new technologies.
 Collaborating on open-source projects and contributing to the developer community.
 Solving complex problems and creating innovative solutions.
-
-Always looking for new challenges and growth opportunities. Feel free to reach out or collaborate on interesting projects!
 
 ###
 
