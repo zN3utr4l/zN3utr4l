@@ -1,6 +1,6 @@
 <h1 align="center">Giuseppe Chirico</h1>
 <p align="center">
-  Full-stack developer — <b>C#/.NET</b> &amp; <b>Vue</b> · building local-first, privacy-first apps
+  Full-stack developer — <b>C#/.NET</b> &amp; <b>Vue</b> · 🎰 slot games @ Novomatic by day · 🌙 local-first OSS by night
 </p>
 <p align="center">
   📍 Bologna, Italy · 🇮🇹 · 🗣️ Italian (native) · English (B2)
@@ -13,24 +13,28 @@
 
 ### 👨‍💻 About me
 
-Full-stack developer working across the stack with **C#/.NET** on the backend and
-**Vue / TypeScript** on the frontend. My background is in **industrial automation** —
-PLC data acquisition, OPC UA and HMIs — and lately I build **local-first, offline-first**
-open-source apps that keep your data on your device.
+Full-stack developer working across the stack with **C#/.NET** on the back end and
+**Vue / TypeScript** on the front end.
 
-- 🔭 Currently building cross-platform mobile & desktop apps (see below)
-- 🌱 Working with Flutter, Capacitor and real-time data pipelines
-- 💬 Ask me about **.NET**, **Vue**, real-time data or industrial protocols
-- ⚡ I care about clean architecture, DX and tools that are genuinely useful
+Right now I build **real-money slot games at [Novomatic](https://www.novomatic.com/)** (iGaming) —
+a high-performance C#/.NET game engine, RNG, back-office services and slot-configuration tooling.
+My background is in **industrial automation** (PLC data acquisition, OPC UA, HMIs), and in my own
+time I ship **local-first, offline-first** open-source apps that keep your data on your device.
+
+- 🎰 Currently: slot game engine, RNG & platform services @ Novomatic
+- 🌱 Also building cross-platform apps with Flutter & Capacitor (see projects below)
+- 💬 Ask me about **.NET**, **Vue**, game/RNG logic, real-time data or industrial protocols
+- ⚡ I care about clean architecture, performance, DX and tools that are genuinely useful
 
 ---
 
 ### 🏆 Highlights
 
+- 🎰 Building **real-money slot games** at Novomatic — a high-performance **C#/.NET** game engine, certified **RNG**, math/RTP simulation, back-office services and slot-configuration tooling.
 - 🏭 Designed & shipped **end-to-end predictive-maintenance systems** as sole developer — PLC data acquisition (OPC UA / Ethernet/IP) → processing pipeline → reports, time-series charts & email alerts.
 - 🔗 Built **MES ↔ PLC integration**: a custom **OPC UA server**, an ASP.NET Core service, and **Yaskawa robot** control via SDK.
 - 🖥️ Developed **HMIs on Raspberry Pi** (Node.js + Quasar) and admin portals with **ASP.NET MVC + REST APIs**.
-- 📱 Now shipping **cross-platform apps**: Vue 3 PWA + Android (Capacitor) and Flutter for desktop & mobile.
+- 📱 Ship **cross-platform apps** on the side: Vue 3 PWA + Android (Capacitor) and Flutter for desktop & mobile.
 
 ---
 
@@ -52,6 +56,8 @@ open-source apps that keep your data on your device.
 
 **DevOps & more** · ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) · Automation: OPC UA · Ethernet/IP · Modbus
 
+**Domains** · 🎰 iGaming / slot games · 🏭 Industrial automation · 📱 Local-first apps
+
 ---
 
 ### 🚀 Featured projects
@@ -65,12 +71,14 @@ open-source apps that keep your data on your device.
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zN3utr4l&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=zN3utr4l&layout=compact&langs_count=6&hide_border=true&theme=github_dark" alt="top languages" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zN3utr4l&style=for-the-badge&label=Profile+views&color=512BD4" alt="Profile views" />
+  <a href="https://github.com/zN3utr4l?tab=followers"><img src="https://img.shields.io/github/followers/zN3utr4l?style=for-the-badge&label=Followers&color=512BD4&logo=github&logoColor=white" alt="Followers" /></a>
+</p>
+
+<p align="center"><sub>Most used: TypeScript · C# · Dart · Python · Vue</sub></p>
 
 ---
 
@@ -79,6 +87,7 @@ open-source apps that keep your data on your device.
 I'm **open to freelance work and collaborations**. I can help you with:
 
 - 🧩 **Full-stack web apps** — **C#/.NET** back ends + **Vue / TypeScript** front ends
+- 🎰 **iGaming** — slot game logic, RNG, math/RTP simulation & back-office tooling
 - 📱 **Cross-platform apps** for mobile & desktop (Flutter, Capacitor)
 - 🏭 **Industrial data & automation** integrations — OPC UA, Ethernet/IP, Modbus, PLC ↔ MES
 - 📈 **Real-time data pipelines**, dashboards & reporting
