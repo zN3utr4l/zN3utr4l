@@ -1,81 +1,97 @@
-<h1 align="left">Hi 👋! My name is Giuseppe Chirico ✍🏻</h1>
-
-<h2 align="left">🎓 I'm a Software Developer from Bologna, Italy 🇮🇹</h2>
-
-### 👨‍💻 About Me:
-I'm a passionate software developer with extensive experience in various frameworks and programming languages.
-
-- 💻 Dedicated to designing innovative solutions, exploring cutting-edge technologies, and enhancing my software development skills.
-- 🚀 Always eager to take on challenging projects and contribute to the development community.
+<h1 align="center">Giuseppe Chirico</h1>
+<p align="center">
+  Full-stack developer — <b>C#/.NET</b> &amp; <b>Vue</b> · building local-first, privacy-first apps
+</p>
+<p align="center">
+  📍 Bologna, Italy · 🇮🇹 · 🗣️ Italian (native) · English (B2)
+</p>
+<p align="center">
+  <a href="mailto:giuseppe.chirico.gc1@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaborations-2ea44f?style=for-the-badge" alt="Open to freelance and collaborations" /></a>
+</p>
 
 ---
 
-### 🔧 Technical Skills:
-- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> Developing robust and scalable applications.
-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> Building secure and high-performance web applications.
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> Scripting, automation, and back-end development.
-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /> Creating dynamic and responsive user interfaces.
-- <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" /> Building cross-platform applications.
-  
-#### 📚 Other Skills & Technologies:
-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-- <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/TimescaleDB-FEFF00?style=for-the-badge&logo=timescale&logoColor=black" alt="TimescaleDB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-- <img src="https://img.shields.io/badge/OPC_UA-0D59A5?style=for-the-badge&logo=opcua&logoColor=white" alt="OPC UA" /> <img src="https://img.shields.io/badge/Ethernet/IP-007ACC?style=for-the-badge&logo=ethernet&logoColor=white" alt="Ethernet/IP" /> <img src="https://img.shields.io/badge/Modbus-004880?style=for-the-badge&logo=modbus&logoColor=white" alt="Modbus" />
+### 👨‍💻 About me
 
-### 💼 Professional Experience:
-- 🤖 **Industrial Automation Solutions:** Working in the Automation industry, developing efficient and innovative solutions.
-- 🖥️ **Human-Machine Interface (HMI):** Development Specializing in the development of Human-Machine Interfaces (HMI) to enhance user interaction and system control.
-- 🔗 **RESTful API Architecture:** Expertise in designing, implementing, and managing RESTful APIs to enable seamless communication between systems, ensuring scalability and performance.
-- 🌍 **Cross-Platform Application Development:** Skilled in building responsive and dynamic web applications using modern frameworks and tools, focusing on user experience, performance, and maintainability.
+Full-stack developer working across the stack with **C#/.NET** on the backend and
+**Vue / TypeScript** on the frontend. My background is in **industrial automation** —
+PLC data acquisition, OPC UA and HMIs — and lately I build **local-first, offline-first**
+open-source apps that keep your data on your device.
 
-### 💡 What I'm Passionate About:
+- 🔭 Currently building cross-platform mobile & desktop apps (see below)
+- 🌱 Working with Flutter, Capacitor and real-time data pipelines
+- 💬 Ask me about **.NET**, **Vue**, real-time data or industrial protocols
+- ⚡ I care about clean architecture, DX and tools that are genuinely useful
 
-Continuously improving my technical skills and learning new technologies.
-Collaborating on open-source projects and contributing to the developer community.
-Solving complex problems and creating innovative solutions.
+---
 
-###
+### 🏆 Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zN3utr4l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zN3utr4l&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
- <img src="https://streak-stats.demolab.com/?user=zN3utr4l&theme=github-dark&border_radius=5&mode=weekly" height="150" alt="streak graph"  />
-</div>
+- 🏭 Designed & shipped **end-to-end predictive-maintenance systems** as sole developer — PLC data acquisition (OPC UA / Ethernet/IP) → processing pipeline → reports, time-series charts & email alerts.
+- 🔗 Built **MES ↔ PLC integration**: a custom **OPC UA server**, an ASP.NET Core service, and **Yaskawa robot** control via SDK.
+- 🖥️ Developed **HMIs on Raspberry Pi** (Node.js + Quasar) and admin portals with **ASP.NET MVC + REST APIs**.
+- 📱 Now shipping **cross-platform apps**: Vue 3 PWA + Android (Capacitor) and Flutter for desktop & mobile.
 
-###
+---
 
-<h2 align="left">📫 Connect with me</h2>
+### 🛠️ Tech stack
 
-###
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<div align="center">
-  <a href="mailto:giuseppe.chirico.gc1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/giuseppe-chirico-4456141a2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/zepps._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
+**Backend** · ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-###
+**Frontend** · ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<br clear="both">
+**Data** · ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+**DevOps & more** · ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) · Automation: OPC UA · Ethernet/IP · Modbus
 
-<img src="https://raw.githubusercontent.com/zN3utr4l/zN3utr4l/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🚀 Featured projects
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/zN3utr4l/count.svg?"  />
-</div>
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| **[PumpLog](https://github.com/zN3utr4l/PumpLog)** | Free, offline **local-first strength tracker** — no account, no server, your data stays on your device. | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) |
+| **[Carburo](https://github.com/zN3utr4l/Carburo)** | **Local-first vehicle-cost tracker** — fuel, expenses, reminders and an offline vehicle catalog. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **[GitOpen](https://github.com/zN3utr4l/GitOpen)** | Fast **open-source desktop git client** for Windows & Linux — commit graph, command palette, conflict resolution, GitHub PRs & Actions. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **[PLC-Client.EEIP](https://github.com/zN3utr4l/PLC-Client.EEIP)** | **Ethernet/IP (EEIP) client** for communicating with industrial PLCs. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=zN3utr4l&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zN3utr4l&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=zN3utr4l&layout=compact&langs_count=6&hide_border=true&theme=github_dark" alt="top languages" />
 </div>
+
+---
+
+### 🤝 Let's work together
+
+I'm **open to freelance work and collaborations**. I can help you with:
+
+- 🧩 **Full-stack web apps** — **C#/.NET** back ends + **Vue / TypeScript** front ends
+- 📱 **Cross-platform apps** for mobile & desktop (Flutter, Capacitor)
+- 🏭 **Industrial data & automation** integrations — OPC UA, Ethernet/IP, Modbus, PLC ↔ MES
+- 📈 **Real-time data pipelines**, dashboards & reporting
+
+📬 Drop me a line at **[giuseppe.chirico.gc1@gmail.com](mailto:giuseppe.chirico.gc1@gmail.com)** or reach out on [LinkedIn](https://www.linkedin.com/in/giuseppe-chirico-4456141a2/).
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="mailto:giuseppe.chirico.gc1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/giuseppe-chirico-4456141a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/zepps._/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/zN3utr4l"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
